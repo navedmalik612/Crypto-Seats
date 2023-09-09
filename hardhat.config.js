@@ -10,9 +10,9 @@ module.exports = {
 
     },
     goerli: {
-      url: "https://goerli.infura.io/v3/a2e1a29db46d41858894d5863bfae282",
+      url: "https://goerli.infura.io/v3/INFURA API KEY",
       chainId: 5,
-      accounts: ['95880070012f74d246f19b151c4648295c5f6c7f000860846fdd4f68e6f003fe']
+      accounts: ['PRIVATE KEY']
     }
   }
 
